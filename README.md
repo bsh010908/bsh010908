@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 <!--
 **bsh010908/bsh010908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
