@@ -66,10 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bsh010908&show_icons=true&theme=default)
 
----
 
 ## 📈 Mindset
 > "기능 구현을 넘어, 실제 서비스 운영을 고려한 개발을 지향합니다."
