@@ -1,4 +1,5 @@
-# 👋 Hi, I'm bsh010908  
+# 👋 Hi, I'm BaeSuhyeon
+
 > AWS + AI 기반 서비스 개발에 강점을 가진 풀스택 개발자
 
 ![visitors](https://komarev.com/ghpvc/?username=bsh010908)
@@ -22,10 +23,23 @@
 - API Gateway + ALB + EC2 구조 설계 및 배포
 - S3 + RDS + Textract + OpenAI 연동
 
+---
+
+### 🎓 LMS (Learning Management System)
+- 시험 생성 / 제출 / 자동 채점 기능 구현
+- 오답노트 저장 및 중복 방지 로직 구현 (update 방식)
+- 사용자 인증 기반 데이터 접근 제어
+- DTO 분리 및 서비스 계층 중심 설계
+- 서버 메모리 기반 문제 관리 구조 적용
+
+---
+
 ### 🏃 FitMap (운동 추천 앱)
 - 운동 / 스트레칭 / 음악 추천 자동응답 시스템
 - 캘린더 기반 운동 기록 관리 기능
 - 지도 기반 위치 서비스 연동 (운동 시설 추천)
+
+---
 
 ### 🔥 Fire Detection System
 - CCTV 기반 화재 감지 시스템
